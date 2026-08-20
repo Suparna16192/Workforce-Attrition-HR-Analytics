@@ -92,3 +92,10 @@ Based on the analysis, recommendations were developed around:
 This project demonstrates the use of Excel for workforce data cleaning, analysis, KPI reporting, visualization, and business insight generation.
 
 It also demonstrates how raw employee data can be transformed into structured workforce reporting to support data-driven HR decision-making.
+
+## Author
+Suparna Guha —
+
+[LinkedIn] -- https://www.linkedin.com/in/suparna-guha-22220119b/
+
+[GitHub] -- https://github.com/Suparna16192
