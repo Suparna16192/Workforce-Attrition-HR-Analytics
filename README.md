@@ -73,22 +73,19 @@ The Excel dashboard provides a consolidated view of key workforce metrics, inclu
 
 ## Key Insights
 
-- Identified monthly changes in workforce attrition and headcount.
-- Compared voluntary and involuntary employee exits.
-- Identified sub-departments with relatively higher attrition.
-- Compared attrition between WFO and WFH employees.
-- Identified the leading employee exit reasons.
-- Evaluated early-tenure attrition to identify potential retention concerns.
+- Performance Related , Role Redundancy , Attendance/Discipline are the top 3 reasons contributing towards 39.3% of all exits. 72.60% of employees have exited in the first 6 months of tenure. 
+- WFH has consistently higher attrition than WFO and reaches 62.6% in June. 
+- Overall attrition increased from 46.9% in April to 53.5% in May and remained high at 53.3% in June, indicating a persistent retention concern.
+
 
 ## Business Recommendations
 
 Based on the analysis, recommendations were developed around:
 
-- Monitoring high-attrition sub-departments
-- Investigating key employee exit drivers
-- Strengthening retention initiatives for early-tenure employees
-- Monitoring workforce trends through regular HR reporting
-- Using workforce KPIs to support proactive decision-making
+- Management should conduct a focused review of the key drivers of attrition, particularly within high-attrition teams and employee segments. The review should prioritize exit reasons, work mode and early-tenure employees to identify controllable causes and introduce targeted retention actions. 
+
+- Introduce a 60 or 90-day new-joiner retention program with manager check-ins, onboarding feedback and early engagement surveys to identify avoidable reasons for early exits.
+
 
 ## Project Outcome
 
