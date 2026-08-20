@@ -68,6 +68,9 @@ The Excel dashboard provides a consolidated view of key workforce metrics, inclu
 - WFO vs WFH Attrition
 - Top Exit Reasons
 
+- <img width="732" height="740" alt="image" src="https://github.com/user-attachments/assets/7e4049a9-0fc6-4f6b-bad2-72382fa7ab1c" />
+
+
 ## Key Insights
 
 - Identified monthly changes in workforce attrition and headcount.
